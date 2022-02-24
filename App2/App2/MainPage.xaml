@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App2.MainPage">
+    <ContentPage Title="Assignment 2">
+    <StackLayout>
+            <Grid Margin="20,10,20,20">
+                <Label Text="Abdallah Nazzal" FontSize="Small" Grid.Column="2" />
+                <Label x:Name="date_label" FontSize="Small" Grid.Column="0"  />
+            </Grid>
+            <Grid Margin="20,30,20,20">
+                <Button Text="Google" Grid.Column="2" Clicked="Google"/>
+                <Button Text="Zajel" Grid.Column="0" Clicked="Zajel"/>
+            </Grid>
+            <WebView x:Name="webView" WidthRequest="20" HeightRequest="500" Source= "https://www.najah.edu/en/academic/faculties/" />
+        </StackLayout>
+    </ContentPage>
+    
+    
+    <ContentPage Title="Assignment 1">
+        <StackLayout>
+            <ScrollView>
+            <Label x:Name="label" Text="Click the Button below" FontSize="Large" VerticalOptions="CenterAndExpand" HorizontalOptions="Center" />
+            </ScrollView>
+            <Button Text="Welcome!" VerticalOptions="CenterAndExpand" HorizontalOptions="Center" BackgroundColor="Blue" Clicked="OnButtonClicked" />
+        </StackLayout>
+
+    </ContentPage>
+</TabbedPage>

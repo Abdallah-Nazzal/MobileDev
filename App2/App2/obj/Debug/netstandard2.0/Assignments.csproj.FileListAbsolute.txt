@@ -1,0 +1,15 @@
+C:\Users\Home\source\repos\App2\App2\App2\bin\Debug\netstandard2.0\Assignments.deps.json
+C:\Users\Home\source\repos\App2\App2\App2\bin\Debug\netstandard2.0\Assignments.dll
+C:\Users\Home\source\repos\App2\App2\App2\bin\Debug\netstandard2.0\ref\Assignments.dll
+C:\Users\Home\source\repos\App2\App2\App2\bin\Debug\netstandard2.0\Assignments.pdb
+C:\Users\Home\source\repos\App2\App2\App2\obj\Debug\netstandard2.0\Assignments.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\App2\App2\App2\obj\Debug\netstandard2.0\Assignments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\App2\App2\App2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Home\source\repos\App2\App2\App2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Home\source\repos\App2\App2\App2\obj\Debug\netstandard2.0\Assignments.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\App2\App2\App2\obj\Debug\netstandard2.0\Assignments.AssemblyInfo.cs
+C:\Users\Home\source\repos\App2\App2\App2\obj\Debug\netstandard2.0\Assignments.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\App2\App2\App2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Home\source\repos\App2\App2\App2\obj\Debug\netstandard2.0\Assignments.dll
+C:\Users\Home\source\repos\App2\App2\App2\obj\Debug\netstandard2.0\ref\Assignments.dll
+C:\Users\Home\source\repos\App2\App2\App2\obj\Debug\netstandard2.0\Assignments.pdb
